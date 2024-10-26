@@ -1,0 +1,15 @@
+{
+    "extends": "stylelint-config-standard",
+    "rules": {
+      "block-no-empty": true,
+      "color-no-invalid-hex": true,
+      "declaration-colon-space-after": "always",
+      "indentation": 2,
+      "max-empty-lines": 1,
+      "no-duplicate-selectors": true,
+      "property-no-unknown": true,
+      "selector-pseudo-element-colon-notation": "single",
+      "string-no-newline": true
+    }
+  }
+  
