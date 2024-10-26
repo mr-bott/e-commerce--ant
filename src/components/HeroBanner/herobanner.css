@@ -1,0 +1,24 @@
+/* styles/HeroBanner.css */
+.hero-banner {
+    background-color: #7fd3cc;
+    padding: 40px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    background-image: url('/public/logo192.png');
+    background-size: cover;
+    background-position: right center;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+  }
+  
+  .hero-content h1 {
+    font-size: 36px;
+    margin: 0 0 15px 0;
+  }
+  
+  .hero-content p {
+    font-size: 18px;
+    margin: 0;
+  }

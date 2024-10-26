@@ -1,0 +1,19 @@
+/* styles/Navigation.css */
+.navigation {
+    padding: 10px 20px;
+    background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .navigation ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navigation a {
+    text-decoration: none;
+    color: #333;
+  }
